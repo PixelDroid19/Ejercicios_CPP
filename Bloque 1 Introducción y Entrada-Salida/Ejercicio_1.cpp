@@ -7,6 +7,7 @@
 #include <cstdlib> // contiene la funcion system("pause")
 #include <locale.h> // Libreria que contiene la funcion setlocale
 
+
 using namespace std;
 
 int main(){
